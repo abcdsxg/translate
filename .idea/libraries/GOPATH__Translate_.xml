@@ -1,0 +1,37 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;Translate&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.go/src/golang.org" />
+      <root url="file://$PROJECT_DIR$/../onebuy" />
+      <root url="file://$USER_HOME$/.go/src/gopkg.in" />
+      <root url="file://$USER_HOME$/.go/src/github.com" />
+      <root url="file://$PROJECT_DIR$/../template" />
+      <root url="file://$PROJECT_DIR$/../test" />
+      <root url="file://$PROJECT_DIR$/../reply" />
+      <root url="file://$PROJECT_DIR$/../laji" />
+      <root url="file://$PROJECT_DIR$/../coupon" />
+      <root url="file://$PROJECT_DIR$/../stat" />
+      <root url="file://$PROJECT_DIR$/../circle" />
+      <root url="file://$PROJECT_DIR$/../exam" />
+      <root url="file://$PROJECT_DIR$/../webapp" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$USER_HOME$/.go/src/golang.org" />
+      <root url="file://$PROJECT_DIR$/../onebuy" />
+      <root url="file://$USER_HOME$/.go/src/gopkg.in" />
+      <root url="file://$USER_HOME$/.go/src/github.com" />
+      <root url="file://$PROJECT_DIR$/../template" />
+      <root url="file://$PROJECT_DIR$/../test" />
+      <root url="file://$PROJECT_DIR$/../reply" />
+      <root url="file://$PROJECT_DIR$/../laji" />
+      <root url="file://$PROJECT_DIR$/../coupon" />
+      <root url="file://$PROJECT_DIR$/../stat" />
+      <root url="file://$PROJECT_DIR$/../circle" />
+      <root url="file://$PROJECT_DIR$/../exam" />
+      <root url="file://$PROJECT_DIR$/../webapp" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
