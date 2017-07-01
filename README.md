@@ -4,6 +4,6 @@
 - linux
 ### 环境依赖
 - sudo apt-get install libgtk-3-dev
-- sudo apt-get install libgstreamer1.0-d
+- sudo apt-get install libgstreamer1.0-d  //centos ->  yum install gstreamer1-devel
 ### 截图
 ![Screenshot](src/Screenshot.png)
